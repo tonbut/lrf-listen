@@ -10,6 +10,11 @@ I’ve hard this code in “production” for over six months now and it’s pro
 I have it connected to my Polestar IoT Hub software:
 [http://polestar.io](http://polestar.io)
 
+## Building
+ - install wiringPi library
+ - clone or download this repo
+ - go to downloaded repo directory and type make
+
 ## Usage
 
 sudo lrf-listen GPIO_pin period_in_milliseconds
