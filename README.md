@@ -52,7 +52,8 @@ This code started out being based on Jonathan Leach’s (lightwaverf-pi) Raspber
 [https://github.com/leachj/lightwaverf-pi](https://github.com/leachj/lightwaverf-pi)
 [htps://jonathanleach1.wordpress.com/2014/02/22/lightwaverf-raspberry-pi/](htps://jonathanleach1.wordpress.com/2014/02/22/lightwaverf-raspberry-pi/)
 
-Also I’ve used various sources of knowledge about the inner workings of the protocol.
+Also I’ve used various sources of knowledge about the inner workings of the protocol including the work of Ben Gillam
+[http://www.benjiegillam.com/2013/02/lightwaverf-rf-protocol/](http://www.benjiegillam.com/2013/02/lightwaverf-rf-protocol/)
 
 
 ## lightwaverf-pi
