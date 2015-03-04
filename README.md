@@ -50,7 +50,7 @@ I experimented with various antenna designs including a ground plane and special
 This code started out being based on Jonathan Leach’s (lightwaverf-pi) RaspberryPi port of Lawrie Griffiths Arduino library but has been completely rewritten from the ground up to be much more tolerant of a lower SNR (signal to noise ratio) hence has a much higher range comparable with official LightwaveRF hardware)
 
 [https://github.com/leachj/lightwaverf-pi](https://github.com/leachj/lightwaverf-pi)
-[htps://jonathanleach1.wordpress.com/2014/02/22/lightwaverf-raspberry-pi/](htps://jonathanleach1.wordpress.com/2014/02/22/lightwaverf-raspberry-pi/)
+[https://jonathanleach1.wordpress.com/2014/02/22/lightwaverf-raspberry-pi/](https://jonathanleach1.wordpress.com/2014/02/22/lightwaverf-raspberry-pi/)
 
 Also I’ve used various sources of knowledge about the inner workings of the protocol including the work of Ben Gillam
 [http://www.benjiegillam.com/2013/02/lightwaverf-rf-protocol/](http://www.benjiegillam.com/2013/02/lightwaverf-rf-protocol/)
