@@ -47,6 +47,8 @@ lw_process_bits
 LightwaveRF uses 433Mhz with ASK /OOK modulation. Regular 433Mhz receivers will work. However after trying several cheap super-regeneration based receivers from ebay on not getting a range more than a meter I look for a better quality receiver and found this Super Heterodyne based model:
 [http://www.quasaruk.co.uk/acatalog/info_QAM_RX4_433.html](http://www.quasaruk.co.uk/acatalog/info_QAM_RX4_433.html)
 
+![433Mhz Receiver](receiverModule.jpg "433Mhz Receiver Module")
+
 Connecting to the Pi is very easy and requires no special circuitry. 
 
 I experimented with various antenna designs including a ground plane and special tuned spings but found that a simple length of wire of about 35cm (half wavelength) worked at least as good as other solutions.
