@@ -51,7 +51,7 @@ LightwaveRF uses 433Mhz with ASK /OOK modulation. Regular 433Mhz receivers will 
 
 Connecting to the Pi is very easy and requires no special circuitry. 
 
-I experimented with various antenna designs including a ground plane and special tuned spings but found that a simple length of wire of about 35cm (half wavelength) worked at least as good as other solutions.
+I experimented with various antenna designs including a ground plane and special tuned springs but found that a simple length of wire of about 35cm (half wavelength) worked at least as good as other solutions.
 
 ## Credit
 This code started out being based on Jonathan Leach’s (lightwaverf-pi) RaspberryPi port of Lawrie Griffiths Arduino library but has been completely rewritten from the ground up to be much more tolerant of a lower SNR (signal to noise ratio) hence has a much higher range comparable with official LightwaveRF hardware)
